@@ -1,0 +1,11 @@
+* react-native-permissions
+  Step 1: install package
+      $ npm install --save react-native-permissions
+      # --- or ---
+      $ yarn add react-native-permissions
+  Step 2: linking (RN 0.63)
+      + update Podfile
+      + update Info.plit
+      + linking: cd ios/pod install
+
+  
